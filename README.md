@@ -1,0 +1,1 @@
+I have created a simple rule-based chatbot in Python that can recognize and respond to basic greetings. The chatbot uses a text-to-speech engine (pygame and gTTs) to vocalize its responses, making the interaction more engaging. The chatbot is able to recognize specific keywords or phrases such as "hello", "hi", "how are you" etc and provide appropriate responses.
